@@ -1,0 +1,31 @@
+{
+  "title": "你的角色",
+  "subtitle": "晚安▪小薛",
+  "technique": "招式名称",
+  "tagline": "招式说明",
+  "edition": "0717 / 001",
+  "collection": "个人全息典藏",
+  "description": "故事长的 说不停/小孩听的 闭上了眼睛",
+  "assets": {
+    "model": "./assets/card.glb",
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "text": "./assets/text.png",
+    "lineart": "./assets/lineart.png"
+  },
+  "parameters": {
+    "subjectScale": 1.5,
+    "subjectDepth": 0.1,
+    "backgroundDepth": -0.18,
+    "lineartDepth": 0.1,
+    "textDepth": 0,
+    "foil": 0.77
+  },
+  "safeArea": {
+    "scale": 0.65,
+    "offset": [
+      0.1,
+      0.2
+    ]
+  }
+}
