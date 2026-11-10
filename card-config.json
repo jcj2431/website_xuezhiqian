@@ -8,10 +8,10 @@
   "description": "故事长的 说不停/小孩听的 闭上了眼睛",
   "assets": {
     "model": "./assets/card.glb",
-    "subject": "./assets/subject.png",
-    "background": "./assets/background.png",
-    "text": "./assets/text.png",
-    "lineart": "./assets/lineart.png"
+    "subject": "./assets/subject.webp",
+    "background": "./assets/background.webp",
+    "text": "./assets/text.webp",
+    "lineart": "./assets/lineart.webp"
   },
   "parameters": {
     "subjectScale": 1.5,
